@@ -29,6 +29,7 @@ public class Program{
             System.out.print("check-in date (dd/MM/yyyy): ");
             checkIn = sdf.parse(scanner.next());
             System.out.print("Check-out date (dd/MM/yyyy): ");
+             
             checkOut = sdf.parse(scanner.next());
 
             
